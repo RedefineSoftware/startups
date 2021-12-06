@@ -46,6 +46,18 @@ import { Component } from '@angular/core';
 
             <div class="rs-card">
               <div class="rs-card__media">
+                <iframe width="320" height="180" src="https://www.youtube.com/embed/pvIN9STpzCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
+
+              <div class="rs-card__content">
+                <h6>Railsware Product Academy</h6>
+                <h1>Lean Canvas Intro</h1>
+              </div>
+            </div>
+          </div>
+          <div class="rs-card-row">
+            <div class="rs-card">
+              <div class="rs-card__media">
                 <iframe width="320" height="180" src="https://www.youtube.com/embed/5-TgqZ8nado" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
 
